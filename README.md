@@ -30,7 +30,7 @@ You will add new methods to the `Enumerable` module in `lib/my_enumerables.rb`. 
 bundle exec rspec <spec_file>
 ```
 
-You can find the associated spec file in the [methods section](#methods). Then, add the method to the enumerable module. Run the tests again using the same command until they pass.
+cd You can find the associated spec file in the [methods section](#methods). Then, add the method to the enumerable module. Run the tests again using the same command until they pass.
 
 ### Example
 
